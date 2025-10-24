@@ -1,0 +1,20 @@
+{
+  "songs": [
+    {
+      "filename": "01.mp3",
+      "title": "Summer Vibes",
+      "artist": "Sakif Newaj",
+      "album": "Summer Collection",
+      "cover": "01.jpg",
+      "duration": 180000
+    },
+    {
+      "filename": "02.mp3", 
+      "title": "Chill Lofi",
+      "artist": "Sakif Newaj",
+      "album": "Study Beats",
+      "cover": "02.jpg",
+      "duration": 240000
+    },
+  ]
+}
