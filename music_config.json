@@ -1,20 +1,26 @@
 {
   "songs": [
     {
-      "filename": "01.mp3",
-      "title": "Summer Vibes",
-      "artist": "Sakif Newaj",
-      "album": "Summer Collection",
-      "cover": "01.jpg",
-      "duration": 180000
+      "id": "song_1",
+      "title": "Chill Lofi Beat",
+      "artist": "Lofi Producer",
+      "album": "Study Sessions",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "coverUrl": "https://via.placeholder.com/300x300/FF6B6B/FFFFFF?text=Lofi+Beat",
+      "duration": 183000,
+      "fileSize": 3500000,
+      "fileType": "audio/mpeg"
     },
     {
-      "filename": "02.mp3", 
-      "title": "Chill Lofi",
-      "artist": "Sakif Newaj",
-      "album": "Study Beats",
-      "cover": "02.jpg",
-      "duration": 240000
-    },
+      "id": "song_2",
+      "title": "Summer Vibes",
+      "artist": "Chill Producer",
+      "album": "Summer Collection",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "coverUrl": "https://via.placeholder.com/300x300/4ECDC4/FFFFFF?text=Summer+Vibes",
+      "duration": 178000,
+      "fileSize": 3200000,
+      "fileType": "audio/mpeg"
+    }
   ]
 }
